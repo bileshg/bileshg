@@ -1,6 +1,8 @@
 ![Header](./github-header-image.png)
 
-Hi there!!! Welcome to my GitHub profile!
+# Hi there! 👋
+
+Welcome to my GitHub profile!
 
 I'm a passionate and experienced Software Engineer with over 9 years in the IT industry. My expertise lies in Data Integration, Master Data Management, and backend development.
 
@@ -22,4 +24,15 @@ I'm a passionate and experienced Software Engineer with over 9 years in the IT i
 - [LinkedIn](https://www.linkedin.com/in/bilesh-ganguly/)
 - [GitHub](https://github.com/bileshg)
 
-Thanks for visiting my GitHub profile!
+## Flairs
+
+<a href="https://stackexchange.com/users/8011176">
+<img src="https://stackexchange.com/users/flair/8011176.png" width="215" height="60" alt="Profile for Bilesh Ganguly on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="Profile for Bilesh Ganguly on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br/>
+
+<a href="https://www.codeabbey.com/index/user_banner/bileshganguly.png">
+<img src="https://www.codeabbey.com/index/user_banner/bileshganguly.png" width="215" height="60" alt="CodeAbbey"></a><br/>
+
+<a href="https://projecteuler.net/profile/bileshg.png">
+<img src="https://projecteuler.net/profile/bileshg.png" width="215" height="60" alt="Project Euler"></a><br/>
+
+![Footer](./github-footer-image.png)

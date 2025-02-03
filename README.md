@@ -4,20 +4,21 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate and experienced Software Engineer with over 9 years in the IT industry. My expertise lies in Data Integration, Master Data Management, and backend development.
+I'm a **Technology Lead** with over **10 years** of experience in the IT industry. I specialize in **Data Integration, Master Data Management (MDM), and Backend Development**. I love solving complex data challenges and building scalable solutions.
 
 ## About Me
 
-- 🔭 I’m currently working on various data integration and backend projects.
-- 🌱 I’m always learning and recently completed courses for Solution Architect Intermediate from Reltio's learning platform.
+- 🔭 Currently working at **TwoPiRadian Infotech** as a **Technology Lead**, focusing on **MDM solutions, data integration, and backend development**.
+- 🌱 Always learning! Recently diving into **LLMs and Retrieval-Augmented Generation (RAGs)** to enhance AI-driven solutions.
 - 💬 Ask me about Data Integration, Master Data Management, Python programming, or any technology-related topics.
 - 🌐 Visit my [website](https://bileshg.github.io) to know more about my work and projects.
 
 ## My Skills
 
-- **Languages:** Python, Java, SQL
-- **Data Integration & Automation:** SnapLogic, Zapier, Azure DataFactory, Workato
+- **Languages:** Python, Java, TypeScript, SQL
+- **Data Integration & Automation:** SnapLogic, Workato, Azure Data Factory, Zapier, Postman (API scripting)
 - **Master Data Management:** Reltio
+- **Databases & Backend Tech:** PostgreSQL, REST & GraphQL APIs
   
 ## Connect with Me
 

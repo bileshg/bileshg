@@ -27,8 +27,7 @@ I'm a **Technology Lead** with over **10 years** of experience in the IT industr
 
 ## Flairs
 
-<a href="https://stackexchange.com/users/8011176">
-<img src="https://stackexchange.com/users/flair/8011176.png" width="215" height="60" alt="Profile for Bilesh Ganguly on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="Profile for Bilesh Ganguly on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/4530448"><img src="https://stackexchange.com/users/flair/4530448.png" width="208" height="58" alt="profile for Bilesh Ganguly on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Bilesh Ganguly on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <a href="https://www.codeabbey.com/index/user_banner/bileshganguly.png">
 <img src="https://www.codeabbey.com/index/user_banner/bileshganguly.png" width="215" height="60" alt="CodeAbbey"></a>
